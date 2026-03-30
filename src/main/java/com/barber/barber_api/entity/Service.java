@@ -14,6 +14,10 @@ public class Service {
     private double price;
     private int durationMinutes;
 
+    // 🔥 Added for barber-wise filtering
+
+    // ✅ Getters & Setters
+
     public Long getId() {
         return id;
     }
